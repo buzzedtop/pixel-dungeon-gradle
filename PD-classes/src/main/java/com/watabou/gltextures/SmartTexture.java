@@ -22,7 +22,7 @@
 package com.watabou.gltextures;
 
 import android.graphics.Bitmap;
-import android.graphics.RectF;
+import com.watabou.utils.RectF;
 
 import com.watabou.glwrap.Texture;
 

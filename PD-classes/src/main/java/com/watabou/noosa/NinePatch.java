@@ -28,7 +28,7 @@ import com.watabou.gltextures.SmartTexture;
 import com.watabou.gltextures.TextureCache;
 import com.watabou.glwrap.Quad;
 
-import android.graphics.RectF;
+import com.watabou.utils.RectF;
 
 public class NinePatch extends Visual {
 	
