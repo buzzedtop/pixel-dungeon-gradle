@@ -24,7 +24,7 @@ package com.watabou.utils;
 import java.util.HashMap;
 
 import android.graphics.Bitmap;
-import android.graphics.Rect;
+import com.watabou.utils.Rect;
 
 public class BitmapFilm {
 

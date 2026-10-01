@@ -29,7 +29,7 @@ import com.watabou.glwrap.Matrix;
 import com.watabou.glwrap.Quad;
 
 import android.graphics.Bitmap;
-import android.graphics.RectF;
+import com.watabou.utils.RectF;
 
 public class BitmapText extends Visual {
 
